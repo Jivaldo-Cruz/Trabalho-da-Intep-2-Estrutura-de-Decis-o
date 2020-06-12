@@ -1,0 +1,72 @@
+Olá a todos.
+Seguindo a nossa orientação de vos consolidar, para que o 10º ano termine em grande, aqui vão mais 16 exercícios.
+No entanto, para que tenham TEMPO para os poder fazer com a devida calma e tempo para absorver todos os processos inerentes a um projecto de programação (alguns destes apesar de NÃO SEREM COMPLICADOS, EXIGEM PLANEAMENTO EM PAPEL - Algoritmo/PseudoCódigo), dou-vos 10 horas para o fazerem. 
+
+10 horas de AULA, claro. Basicamente dou-vos 3 dias para fazerem os exercícios. Não vos tenho pressionado...
+
+CASO FOREM À NET buscar algum código que não seja vosso INFORMEM NOS COMENTÁRIOS. E ONDE o forem buscar. Respeitar os direitos de autor é crítico na vossa profissão.
+A partir do exercício 10, além do programa quero o ALGORITMO DESENHADO em folha A4. MANDAM A FOTO JUNTAMENTE com o programa, por favor. Preciso de ver como é que  vocês pensam o código ANTES de o desenvolver...
+
+BOM TRABALHO A TODOS!
+
+
+
+1.	Façam um Programa que peça dois números e imprima o maior
+
+2.	Façam um Programa que peça um valor e mostre no ecrã se o valor é positivo ou negativo.
+
+3.	Façam um Programa que verifique se uma letra digitada é "F" ou "M". Conforme a letra escrever: F - Feminino, M - Masculino
+
+4.	Façam um Programa que verifique se uma letra digitada é vogal ou consoante.
+
+5.	Façam um programa para a leitura de duas notas parciais de um aluno. O programa deve calcular a média alcançada por aluno e apresentar:
+o	A mensagem "Aprovado", se a média alcançada for maior ou igual a dez;
+o	A mensagem "Reprovado", se a média for menor do que dez;
+o	A mensagem "Aprovado com Distinção", se a média for igual a dez.
+
+6.	Façam um Programa que leia três números e mostre o maior deles.
+
+7.	Façam um Programa que leia três números e mostre o maior e o menor.
+
+8.	Façam um programa que pergunte o preço de três produtos e nos diga qual o  produto que devem comprar, sabendo que a decisão é sempre pelo mais barato.
+
+9.	Façam um Programa que leia três números e os mostre por ordem decrescente.
+
+10.	Façam um Programa que pergunte em que turno vocês estudam. Peçam para digitar M-matutino ou V-Vespertino ou N- Noturno. Depois o programa tem que imprimir a mensagem "Bom Dia!", "Boa Tarde!" ou "Boa Noite!" ou "Valor Inválido!", conforme o caso.
+
+11.	Decidi dar um aumento de salário aos meus programadores e decidi fazer um programa que calculará os reajustes.
+o	Façam um programa que recebe o salário de um colaborador e o reajuste segundo o seguinte critério, baseado no salário atual:
+o	salários até € 2800,00 (incluído) : aumento de 20%
+o	salários entre € 2800,00 e € 7000,00 : aumento de 15%
+o	salários entre € 7000,00 e € 15000,00 : aumento de 10%
+o	salários de € 15000,00 em diante : aumento de 5% Após o aumento ser realizado, informe no ecrã:
+o	o salário antes do reajuste;
+o	a percentagem de aumento aplicado;
+o	o valor do aumento;
+o	o novo salário, após o aumento.
+
+12.	Façam um Programa que leia um número e exiba o dia correspondente da semana. (1-Domingo, 2- Segunda, etc.), se digitar outro valor deve aparecer valor inválido.
+
+13.	Façam um programa que lê as duas notas parciais obtidas por um aluno numa disciplina ao longo de um período, e calcule a sua média. A atribuição de conceitos obedece à tabela abaixo:
+o	  Média de Aproveitamento  Conceito
+o	  Entre 9.0 e 10.0                         A
+o	  Entre 7.5 e 9.0                           B
+o	  Entre 6.0 e 7.5                           C
+o	  Entre 4.0 e 6.0                           D
+o	  Entre 4.0 e zero                         E
+O algoritmo deve mostrar na tela as notas, a média, o conceito correspondente e a mensagem “APROVADO” se o conceito for A, B ou C ou “REPROVADO” se o conceito for D ou E.
+
+14.	Façam um Programa que peça os 3 lados de um triângulo. O programa deverá informar se os valores podem ser um triângulo. Indique, caso os lados formem um triângulo, se o mesmo é: equilátero, isósceles ou escaleno.
+o	Dicas:
+o	Três lados formam um triângulo quando a soma de quaisquer dois lados for maior que o terceiro;
+o	Triângulo Equilátero: três lados iguais;
+o	Triângulo Isósceles: quaisquer dois lados iguais;
+o	Triângulo Escaleno: três lados diferentes;
+
+15.	Façam um programa que calcule as raízes de uma equação do segundo grau, na forma ax2 + bx + c. O programa deverá pedir os valores de a, b e c e fazer as consistências, informando o utilizador nas seguintes situações:
+o	Se o utilizador informar o valor de A igual a zero, a equação não é do segundo grau e o programa não deve fazer pedir os demais valores, sendo encerrado;
+o	Se o delta calculado for negativo, a equação não possui raizes reais. Informem o utilizador e encerrem o programa;
+o	Se o delta calculado for igual a zero a equação possui apenas uma raiz real; informem o utilizador;
+o	Se o delta for positivo, a equação possui duas raiz reais; informem-nas ao utilizador;
+
+16.	Façam um Programa que peça um número correspondente a um determinado ano e em seguida informe se este ano é ou não bissexto.
